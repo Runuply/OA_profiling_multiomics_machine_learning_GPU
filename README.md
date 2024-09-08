@@ -89,6 +89,7 @@ For GPU-accelerated Python applications, it's recommended to create a virtual en
 python -m venv my_gpu_env # create; in my case, python -m venv myenv_20240907_142513
 source my_gpu_env/bin/activate # active
 ```
+I used, `python3 -m venv myenv_$(date +%Y%m%d_%H%M%S)` to create a unique name of the env.
 ### Install GPU-Accelerated TensorFlow and PyTorch
 
 Once inside the environment, install TensorFlow with GPU support:
