@@ -115,10 +115,11 @@ These packages were installed to enable deep learning workflows using the GPU-ac
 ```
 pip install scikit-learn pandas numpy matplotlib
 ```
-scikit-learn: A widely used machine learning library that provides simple and efficient tools for data mining and data analysis. It includes implementations of various algorithms for classification, regression, clustering, and dimensionality reduction.
-pandas: A powerful data manipulation and analysis library that allows you to work efficiently with structured data (e.g., data frames). It's used for loading, cleaning, and processing data.
-numpy: The core library for numerical computing in Python. It provides support for arrays, matrices, and many mathematical functions used for performing operations on these arrays.
-matplotlib: A plotting library used for creating static, animated, and interactive visualizations in Python. It's helpful for visualizing data trends, patterns, and model performance.
+- scikit-learn: A widely used machine learning library that provides simple and efficient tools for data mining and data analysis. It includes implementations of various algorithms for classification, regression, clustering, and dimensionality reduction.
+- pandas: A powerful data manipulation and analysis library that allows you to work efficiently with structured data (e.g., data frames). It's used for loading, cleaning, and processing data.
+- numpy: The core library for numerical computing in Python. It provides support for arrays, matrices, and many mathematical functions used for performing operations on these arrays.
+- matplotlib: A plotting library used for creating static, animated, and interactive visualizations in Python. It's helpful for visualizing data trends, patterns, and model performance.
+
 These libraries are essential for general machine learning and data science workflows. They help with data loading, preprocessing, modeling, and visualization.
 
 ### Verifying the Installation
