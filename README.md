@@ -94,7 +94,7 @@ I used, `python3 -m venv myenv_$(date +%Y%m%d_%H%M%S)` to create a unique name o
 
 Once inside the environment, install TensorFlow with GPU support:
 ```bash
-bash-5.1$ pip install tensorflow
+pip install tensorflow
 
 ##WARNING: You are using pip version 21.2.3; however, version 24.2 is available.
 ##You should consider upgrading via the '/home/ye.liu/myenv_20240907_142513/bin/python3 -m pip install --upgrade pip' ##command.
