@@ -192,7 +192,7 @@ cat slurm-JOBID.out
 
 ---
 ## Reference
-[01.IMI-APPROACH](ref/ref_01_OAC_2023_IMI-APPROACH_machine_learning_OA_patient_selection.md)
-
+[01.IMI-APPROAC Hmachine_learning_OA_patient](ref/ref_01_OAC_2023_IMI-APPROACH_machine_learning_OA_patient_selection.md)
+[02.scRNA-seq and GM-seq OA ](ref/ref_02_BMJ_OA_2024_scRNAseq_GM_seq.md)
 
 
